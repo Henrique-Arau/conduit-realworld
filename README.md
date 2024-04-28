@@ -78,7 +78,7 @@ To install the project on your computer, follow these steps:
    > :warning: Please, make sure you have already created a superuser for your database.
 
    ```bash
-   npm run sqlz -- db:create
+   npm run sqlz --db:create
    ```
 
    ```bash

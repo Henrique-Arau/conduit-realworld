@@ -23,9 +23,13 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
+    "@types/jest": "^29.5.12",
     "@vitejs/plugin-react-swc": "^3.2.0",
     "concurrently": "^7.6.0",
-    "vitest": "^0.29.7"
+    "cypress": "^13.8.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "jsdom": "^24.0.0",
+    "vitest": "^0.29.8"
   },
   "main": "vitest.config.js",
   "dependencies": {
